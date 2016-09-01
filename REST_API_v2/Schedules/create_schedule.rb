@@ -18,7 +18,7 @@ PAYLOAD = {
         rotation_virtual_start: '2017-11-06T20:00:00-05:00',
         rotation_turn_length_seconds: 86_400,
         users: [
-          user: {
+          {
             id: 'P8ZGOI6',
             type: 'user'
           }
